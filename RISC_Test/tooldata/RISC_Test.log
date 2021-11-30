@@ -1,0 +1,16 @@
+Project Name: RISC_Test
+Location: C:\Users\Mikey\Desktop\LiberoProjects\RISC_Test
+Description: 
+Preferred HDL Type: Verilog
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : MPF300T-1FCG484E
+Family         : PolarFire
+Die            : MPF300T
+Package        : FCG484
+Speed          : -1
+Core Voltage   : 1.0
+Range          : EXT
