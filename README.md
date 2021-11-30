@@ -1,11 +1,5 @@
-# Advanced Digital Design VHDL and C++ Projects
+# Methodology for Fault Tolerant System Design Based on FPGA into Limited Redundant Area
 
-This repository contains a collection of various projects done in my advanced VHDL class integrated with C++ aspects.
-**Note: the video links contained in the readme.md files no longer work as they expired after a set period, but the code is there to view and download.**
+Abstract—This paper discusses the issue of Single Event Upsets (SEUs) that damage traditional devices that are sent into orbit on space missions. For this case, a Field Programmable Gate Array (FPGA) is the device that will be affected by radiation from the SEU resulting in the damage/loss of data. Triple Modular Redundancy (TMR) and a redundancy algorithm will be implemented as the basis of repair to allow the Static Random-Access Memory to hold the correct data despite radiation particles disrupting the natural timing of the logic. Simulations of faults will be run on the FPGA in order to test the resilience of the algorithm and the operationality of TMR in the given system. Assuming adequate testing, the FPGA should be able to self-correct any faults that happen in data flow as a result of a SEU.
 
-- Primary coding languages include SystemVerilog, VHDL and C++.
-- All files have been recently organized into this repository, hence the recent commits.
-
-\*_Projects within this repository were a team collaboration with my partner Kyle Hanano._
-
-> Please feel free to contact me for inquiries on other projects outside of this repository at: michaelabishara@yahoo.com :shipit:
+RISC-V architecture will be implemented to PolarFire and Nexys 4 FPGA to test the functionality and find the difference of other ISA. RISC-V ISA is able to handle the most important features in a CPU. For example, it can be configured standalone as a simplified general-purpose computer. It is compatible for a CPU to include an extension of a different instruction set. The load-and-store architecture allows operands and destination sets in registers instead of in memory, which achieve orthogonality to achieve better memory maintenance.  
