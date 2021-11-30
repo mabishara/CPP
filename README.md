@@ -1,4 +1,4 @@
-# Advanced Digital Design VHDL Projects
+# Advanced Digital Design VHDL and C++ Projects
 
 This repository contains a collection of various projects done in my advanced VHDL class integrated with C++ aspects.
 **Note: the video links contained in the readme.md files no longer work as they expired after a set period, but the code is there to view and download.**
