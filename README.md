@@ -6,6 +6,6 @@ This repository contains a collection of various projects done in my advanced VH
 - Primary coding languages include SystemVerilog, VHDL and C++.
 - All files have been recently organized into this repository, hence the recent commits.
 
-\*_Projects within this repository were a team collaboration with my partner Kyle Hanano._
+\*_VHDL Labs within this repository were a team collaboration with my partner Kyle Hanano._
 
 > Please feel free to contact me for inquiries on other projects outside of this repository at: michaelabishara@yahoo.com :shipit:
